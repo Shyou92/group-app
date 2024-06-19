@@ -8,6 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "homepage": "https://shyou92.github.io/group-app",
   "private": true,
   "dependencies": {
     "@angular/animations": "^17.0.0",
